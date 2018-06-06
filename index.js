@@ -1,6 +1,3 @@
-const index-test.js = require('./index-test.js');
-
-
 // Add your doToElementsInArray() function here:
 function doToElementsInArray(array, callback) {
   array.forEach(callback);
